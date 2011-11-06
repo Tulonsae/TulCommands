@@ -1,3 +1,3 @@
 name: TulCommands
-main: org.tulonsae.me.commands.TulCommands
-version: 0.1-dev-1
+main: org.tulonsae.mc.commands.TulCommands
+version: "${project.version}-${project.build.number}"
