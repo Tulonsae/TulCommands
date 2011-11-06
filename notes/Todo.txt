@@ -1,0 +1,1 @@
+Update the plugin.yml info from pox.yml (for version, etc.).

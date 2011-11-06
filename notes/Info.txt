@@ -1,0 +1,2 @@
+Build version
+  MajorVersion.MinorVersion[.FixVersion]-BuildType-BuildNumber
